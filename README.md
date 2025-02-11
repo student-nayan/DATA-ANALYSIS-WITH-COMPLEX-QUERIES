@@ -17,4 +17,8 @@ First, I used a Window Function to calculate the running total of sales for each
 
 Next, I used a Subquery to find frequent customers—those who placed more than five orders. The subquery first counted how many orders each customer made, and then I filtered the results to show only those who had made more than five purchases. This helped identify customers who buy often, so businesses can reward them with discounts or loyalty programs.
 
-*OUTPUT*: 
+*OUTPUT*: ![Image](https://github.com/user-attachments/assets/d93f5922-e93a-4908-a837-eb0986600ca7)
+
+![Image](https://github.com/user-attachments/assets/8cdd3369-fa04-4356-a928-5718dd72ced5)
+
+![Image](https://github.com/user-attachments/assets/59dcc5f7-5324-4f75-ac50-858829694eae)
